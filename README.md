@@ -25,7 +25,7 @@ If not installed, download and install Node.js from [nodejs.org](https://nodejs.
 If you haven't already, download or clone the project files to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Shivek19758/Library-Management-System.git)
 ```
 
 ---
